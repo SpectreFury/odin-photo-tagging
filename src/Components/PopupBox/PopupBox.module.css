@@ -1,0 +1,19 @@
+.container {
+  position: fixed;
+  top: 2%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  background-color: #780000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+
+.text {
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  color: #d89441;
+  text-transform: uppercase;
+}
