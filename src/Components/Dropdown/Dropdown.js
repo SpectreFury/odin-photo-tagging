@@ -21,6 +21,7 @@ const Dropdown = (props) => {
         ) {
           props.handleFoundCharacter(character.id);
           props.handleIsVisible(false);
+          props.handleTotalCharacters((prev) => prev - 1);
         } else {
           props.handleFoundCharacter("Keep Looking!");
           props.handleIsVisible(false);

@@ -1,0 +1,33 @@
+.gameover {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 600px;
+  height: 400px;
+  background-color: #d89441;
+  border-radius: 10px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.heading {
+  color: #780000;
+}
+
+.time {
+  font-size: 4rem;
+  letter-spacing: 2px;
+}

@@ -1,4 +1,5 @@
 .container {
+  position: relative;
   width: 100%;
   height: 100px;
   display: flex;
@@ -12,4 +13,12 @@
   color: #780000;
   text-shadow: -1px -1px 0 #d89441, 1px -1px 0 #d89441, -1px 1px 0 #d89441,
     1px 1px 0 #d89441;
+}
+
+.hover {
+  position: absolute;
+  right: 10%;
+  padding: 1rem 2rem;
+  background-color: #780000;
+  border-radius: 10px;
 }
