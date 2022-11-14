@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/odin-photo-tagging/static/css/main.bff30d7d.css",
+    "main.js": "/odin-photo-tagging/static/js/main.0def4ba8.js",
+    "static/media/Westeros.jpg": "/odin-photo-tagging/static/media/Westeros.b1dba58c0879f12adcdb.jpg",
+    "static/media/old-nan.png": "/odin-photo-tagging/static/media/old-nan.d2dd7411b568f9596d88.png",
+    "static/media/tyrion.png": "/odin-photo-tagging/static/media/tyrion.00f1ff6c5a4ec8e890fd.png",
+    "index.html": "/odin-photo-tagging/index.html",
+    "main.bff30d7d.css.map": "/odin-photo-tagging/static/css/main.bff30d7d.css.map",
+    "main.0def4ba8.js.map": "/odin-photo-tagging/static/js/main.0def4ba8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff30d7d.css",
+    "static/js/main.0def4ba8.js"
+  ]
+}
